@@ -1,0 +1,16 @@
+PODS:
+  - RichEditorView (5.0.0)
+
+DEPENDENCIES:
+  - RichEditorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RichEditorView
+
+SPEC CHECKSUMS:
+  RichEditorView: 1bbb07b87ca2d479ac29a6877014b38b8df233ef
+
+PODFILE CHECKSUM: 461dbdb4e9668daab8307acf05b4c96b210826be
+
+COCOAPODS: 1.5.3
